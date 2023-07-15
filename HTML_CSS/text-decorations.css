@@ -1,0 +1,58 @@
+/* .decoration {
+  ここにCSSを書いていきます
+  font-size: 48px;
+  color: red;
+} 
+*/
+
+.decoration {
+/* 以下はカラーコードで色を指定しています */
+/* color: #ff0000; */
+
+/* 以下はRGBで色を指定しています */
+/* color: rgb(255,0,0); */
+
+/* 以下はRGBAで色を指定しています */
+/* color: rgba(255,0,0,50%); */
+
+/* font-weight: bold; */
+
+/* font-family: "游ゴシック体","YuGothic","游ゴシック","Yu Gpthic";
+font-style: italic; */
+
+/* line-height: 4.5; */
+
+/* letter-spacing: 1.5em; */
+
+/* text-decoration: underline; */
+
+/* text-decoration: line-through; */
+
+/* solidは実践 */
+/* border: solid 3px red; */
+
+/* dottedは点線 */
+/* border: dotted 3px red; */
+
+/* dashedは破線 */
+/* border: dashed 3px red; */
+
+/* doubleは2重線 */
+/* border: double 5px red; */
+
+/* border-top: solid 3px red;
+border-bottom: dotted 3px blue; */
+
+/* border-left: dashed 3px green;
+border-right: double 3px gray; */
+
+/* background-color: red; */
+
+/* text-shadow: 1px 1px 2px gray; */
+
+/* text-align: center; */
+}
+
+.text-bold {
+  font-weight: bold;
+}

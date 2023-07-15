@@ -1,0 +1,35 @@
+/* p {
+  border: solid 5px yellow;   
+  padding: 10px;
+  margin: 10px;
+} */
+
+#first-paragraph {      
+  margin-bottom: 30px;
+  border: solid 5px yellow; 
+}
+
+#second-paragraph {      
+  /* padding: 100px; */
+  /* margin: 100px; */
+
+  /* 全方向 */
+  /* padding: 10px;
+  margin: 10px; */
+
+  /* 上右下左 */
+  /* padding: 20px 15px 10px 5px;
+  margin: 15px 10px 5px 0px; */
+
+  /* 上下　左右 */
+  /* padding: 20px 10px;
+  margin: 40px 20px; */
+
+  /* padding-left: 20px;
+  padding-right: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px; */
+
+  margin-top: 10px;
+  border: solid 5px yellow; 
+}
